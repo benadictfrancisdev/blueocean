@@ -1,0 +1,21 @@
+id,name,age,department,salary,years_experience,city,performance_score
+1,John Smith,35,Engineering,95000,8,New York,85
+2,Jane Doe,28,Marketing,72000,4,Los Angeles,92
+3,Bob Johnson,42,Engineering,110000,15,San Francisco,88
+4,Alice Williams,31,Sales,68000,6,Chicago,90
+5,Charlie Brown,29,Engineering,88000,5,New York,87
+6,Diana Prince,38,Management,125000,12,Boston,95
+7,Eve Martinez,26,Marketing,65000,3,Miami,89
+8,Frank Castle,45,Sales,95000,18,Dallas,91
+9,Grace Lee,33,Engineering,98000,9,Seattle,93
+10,Henry Ford,40,Management,135000,14,Detroit,86
+11,Ivy Chen,27,Marketing,70000,4,San Francisco,88
+12,Jack Ryan,36,Engineering,102000,10,New York,90
+13,Karen Page,32,Sales,75000,7,Los Angeles,92
+14,Leo Valdez,29,Engineering,90000,6,Austin,87
+15,Mary Watson,41,Management,128000,13,Boston,94
+16,Nathan Drake,34,Sales,82000,8,Chicago,89
+17,Olivia Pope,37,Marketing,95000,11,Washington,93
+18,Peter Parker,25,Engineering,78000,2,New York,85
+19,Quinn Fabray,30,Sales,71000,5,Miami,88
+20,Rachel Green,28,Marketing,68000,4,Los Angeles,90
